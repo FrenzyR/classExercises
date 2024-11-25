@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="990ebd9b-a9c7-4334-a0cb-f6732fb31dbc" name="Changes" comment="Restored some more exercises aswell as marked the TODOs...">
-      <change afterPath="$PROJECT_DIR$/pythonExercises/exercise17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonExercises/exercise18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonExercises/exercise19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonExercises/exercise20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonExercises/exercise21.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExercises/exercise16.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExercises/exercise16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExercises/exercise22.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExercises/exercise22.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +58,7 @@
     "Python.exercise19.executor": "Run",
     "Python.exercise20.executor": "Run",
     "Python.exercise21.executor": "Run",
+    "Python.exercise22.executor": "Run",
     "Python.main.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
