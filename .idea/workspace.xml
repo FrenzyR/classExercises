@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="990ebd9b-a9c7-4334-a0cb-f6732fb31dbc" name="Changes" comment="Did exercise 22">
+    <list default="true" id="990ebd9b-a9c7-4334-a0cb-f6732fb31dbc" name="Changes" comment="Did exercise 23, which was to make a prime number checker">
+      <change afterPath="$PROJECT_DIR$/pythonExercises/exercise24.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExercises/exercise23.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExercises/exercise23.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +60,25 @@
     "Python.exercise21.executor": "Run",
     "Python.exercise22.executor": "Run",
     "Python.exercise23.executor": "Run",
+    "Python.exercise24.executor": "Run",
     "Python.main.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pythonExercises" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="classExercises" />
@@ -81,6 +93,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -94,7 +107,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199" />
+        <option value="bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
@@ -106,6 +120,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731917232890</updated>
+      <workItem from="1732782116230" duration="25000" />
+      <workItem from="1732782147594" duration="57000" />
+      <workItem from="1733126778813" duration="2215000" />
     </task>
     <task id="LOCAL-00001" summary="Attempt at testing">
       <option name="closed" value="true" />
@@ -139,8 +156,19 @@
       <option name="project" value="LOCAL" />
       <updated>1732523791392</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Did exercise 23, which was to make a prime number checker">
+      <option name="closed" value="true" />
+      <created>1732528490392</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732528490392</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -158,6 +186,7 @@
     <MESSAGE value="Restored some of the exercises I had on the previous PC, since I changed computers I had to redo them from scratch, I should've made a git project earlier eh..." />
     <MESSAGE value="Restored some more exercises aswell as marked the TODOs..." />
     <MESSAGE value="Did exercise 22" />
-    <option name="LAST_COMMIT_MESSAGE" value="Did exercise 22" />
+    <MESSAGE value="Did exercise 23, which was to make a prime number checker" />
+    <option name="LAST_COMMIT_MESSAGE" value="Did exercise 23, which was to make a prime number checker" />
   </component>
 </project>
