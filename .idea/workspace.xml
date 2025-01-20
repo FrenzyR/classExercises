@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="990ebd9b-a9c7-4334-a0cb-f6732fb31dbc" name="Changes" comment="Done from 27 to 32">
+    <list default="true" id="990ebd9b-a9c7-4334-a0cb-f6732fb31dbc" name="Changes" comment="Now actually did the 32">
+      <change afterPath="$PROJECT_DIR$/pythonExercises/exercise28.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pythonExercises/exercise32.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExercises/exercise32.py" afterDir="false" />
     </list>
@@ -67,6 +68,7 @@
     &quot;Python.exercise29.executor&quot;: &quot;Run&quot;,
     &quot;Python.exercise30.executor&quot;: &quot;Run&quot;,
     &quot;Python.exercise31.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise32.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.test.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -140,7 +142,8 @@
       <workItem from="1736757187284" duration="5846000" />
       <workItem from="1736934405413" duration="761000" />
       <workItem from="1737018154626" duration="5584000" />
-      <workItem from="1737108275600" duration="292000" />
+      <workItem from="1737108275600" duration="2007000" />
+      <workItem from="1737363116882" duration="5399000" />
     </task>
     <task id="LOCAL-00001" summary="Attempt at testing">
       <option name="closed" value="true" />
@@ -214,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737021253341</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Now actually did the 32">
+      <option name="closed" value="true" />
+      <created>1737108623752</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1737108623752</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,11 +251,13 @@
     <MESSAGE value="Did exercise 25, which was to make a for that summed the previous numbers up to the one selected by you" />
     <MESSAGE value="Did exercise 24*, which was to make a for that summed the previous numbers up to the one selected by you&#10;The 25th, that was to make a factorial function, and the 26th, that was a BMI calculator" />
     <MESSAGE value="Done from 27 to 32" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done from 27 to 32" />
+    <MESSAGE value="Now actually did the 32" />
+    <option name="LAST_COMMIT_MESSAGE" value="Now actually did the 32" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/classExercises$exercise27.coverage" NAME="exercise27 Coverage Results" MODIFIED="1736418379911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonExercises" />
     <SUITE FILE_PATH="coverage/classExercises$exercise24.coverage" NAME="exercise24 Coverage Results" MODIFIED="1733129170363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonExercises" />
+    <SUITE FILE_PATH="coverage/classExercises$exercise32.coverage" NAME="exercise32 Coverage Results" MODIFIED="1737108585469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonExercises" />
     <SUITE FILE_PATH="coverage/classExercises$exercise25.coverage" NAME="exercise25 Coverage Results" MODIFIED="1733129724617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonExercises" />
     <SUITE FILE_PATH="coverage/classExercises$main.coverage" NAME="main Coverage Results" MODIFIED="1736417768608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/classExercises$exercise30.coverage" NAME="exercise30 Coverage Results" MODIFIED="1736759336549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonExercises" />
