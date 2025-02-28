@@ -4,10 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="990ebd9b-a9c7-4334-a0cb-f6732fb31dbc" name="Changes" comment="Now actually did the 32">
-      <change afterPath="$PROJECT_DIR$/pythonExercises/exercise28.py" afterDir="false" />
+    <list default="true" id="990ebd9b-a9c7-4334-a0cb-f6732fb31dbc" name="Changes" comment="Tried to do a bit on the 28, failed.">
+      <change afterPath="$PROJECT_DIR$/pythonExercises/exercise33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExercises/exercise39.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExercises/exercise41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExercises/exercise47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExercises/exercise64.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExercises/imaxes/Convolution-Image-Processing-Example-1.png.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExercises/imaxes/cuadrado-circulo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExercises/imaxes/letter_j.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExercises/imaxes/letter_j_huecos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExercises/imaxes/letter_j_puntos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExercises/imaxes/photo2.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExercises/imaxes/photo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExercises/imaxes/photo3.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExercises/imaxes/photo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExercises/imaxes/resultado1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExercises/imaxes/sudoku.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExercises/exercise32.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExercises/exercise32.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExercises/exercise08.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +32,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
@@ -47,6 +63,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in exercise41.py.executor&quot;: &quot;Run&quot;,
     &quot;Python.exercise09.executor&quot;: &quot;Run&quot;,
     &quot;Python.exercise11.executor&quot;: &quot;Run&quot;,
     &quot;Python.exercise12.executor&quot;: &quot;Run&quot;,
@@ -69,11 +86,14 @@
     &quot;Python.exercise30.executor&quot;: &quot;Run&quot;,
     &quot;Python.exercise31.executor&quot;: &quot;Run&quot;,
     &quot;Python.exercise32.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise39.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise41.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.test.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/a24rubencvr/PycharmProjects/classExercises/pythonExercises&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -83,7 +103,11 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pythonExercises" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pythonExercises/imaxes" />
       <recent name="$PROJECT_DIR$/pythonExercises" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -116,8 +140,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
-        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
+        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
       </set>
     </attachedChunks>
   </component>
@@ -143,7 +167,26 @@
       <workItem from="1736934405413" duration="761000" />
       <workItem from="1737018154626" duration="5584000" />
       <workItem from="1737108275600" duration="2007000" />
-      <workItem from="1737363116882" duration="5399000" />
+      <workItem from="1737363116882" duration="5731000" />
+      <workItem from="1737545924623" duration="8000" />
+      <workItem from="1738311653278" duration="312000" />
+      <workItem from="1738312306927" duration="616000" />
+      <workItem from="1738314916271" duration="957000" />
+      <workItem from="1738315890951" duration="3017000" />
+      <workItem from="1738572437013" duration="2024000" />
+      <workItem from="1738574698255" duration="3232000" />
+      <workItem from="1738836465804" duration="5633000" />
+      <workItem from="1738843420635" duration="78000" />
+      <workItem from="1738843508475" duration="2004000" />
+      <workItem from="1738922952991" duration="7109000" />
+      <workItem from="1740046596026" duration="51000" />
+      <workItem from="1740384338588" duration="966000" />
+      <workItem from="1740389670689" duration="3581000" />
+      <workItem from="1740395571673" duration="600000" />
+      <workItem from="1740564089420" duration="2010000" />
+      <workItem from="1740648016241" duration="3325000" />
+      <workItem from="1740731351016" duration="1110000" />
+      <workItem from="1740732474879" duration="1282000" />
     </task>
     <task id="LOCAL-00001" summary="Attempt at testing">
       <option name="closed" value="true" />
@@ -225,11 +268,41 @@
       <option name="project" value="LOCAL" />
       <updated>1737108623752</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Tried to do a bit on the 28, failed.">
+      <option name="closed" value="true" />
+      <created>1737368530511</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1737368530511</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -252,17 +325,21 @@
     <MESSAGE value="Did exercise 24*, which was to make a for that summed the previous numbers up to the one selected by you&#10;The 25th, that was to make a factorial function, and the 26th, that was a BMI calculator" />
     <MESSAGE value="Done from 27 to 32" />
     <MESSAGE value="Now actually did the 32" />
-    <option name="LAST_COMMIT_MESSAGE" value="Now actually did the 32" />
+    <MESSAGE value="Tried to do a bit on the 28, failed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Tried to do a bit on the 28, failed." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/classExercises$exercise27.coverage" NAME="exercise27 Coverage Results" MODIFIED="1736418379911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonExercises" />
-    <SUITE FILE_PATH="coverage/classExercises$exercise24.coverage" NAME="exercise24 Coverage Results" MODIFIED="1733129170363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonExercises" />
     <SUITE FILE_PATH="coverage/classExercises$exercise32.coverage" NAME="exercise32 Coverage Results" MODIFIED="1737108585469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonExercises" />
+    <SUITE FILE_PATH="coverage/classExercises$.coverage" NAME=" Coverage Results" MODIFIED="1738923573387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonExercises" />
     <SUITE FILE_PATH="coverage/classExercises$exercise25.coverage" NAME="exercise25 Coverage Results" MODIFIED="1733129724617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonExercises" />
+    <SUITE FILE_PATH="coverage/classExercises$exercise39.coverage" NAME="exercise39 Coverage Results" MODIFIED="1740732813613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonExercises" />
     <SUITE FILE_PATH="coverage/classExercises$main.coverage" NAME="main Coverage Results" MODIFIED="1736417768608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/classExercises$exercise30.coverage" NAME="exercise30 Coverage Results" MODIFIED="1736759336549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonExercises" />
     <SUITE FILE_PATH="coverage/classExercises$exercise29.coverage" NAME="exercise29 Coverage Results" MODIFIED="1736758510726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonExercises" />
+    <SUITE FILE_PATH="coverage/classExercises$exercise41.coverage" NAME="exercise41 Coverage Results" MODIFIED="1738923356132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonExercises" />
     <SUITE FILE_PATH="coverage/classExercises$exercise26.coverage" NAME="exercise26 Coverage Results" MODIFIED="1733134042607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonExercises" />
     <SUITE FILE_PATH="coverage/classExercises$exercise31.coverage" NAME="exercise31 Coverage Results" MODIFIED="1737019998975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonExercises" />
+    <SUITE FILE_PATH="coverage/classExercises$exercise27.coverage" NAME="exercise27 Coverage Results" MODIFIED="1736418379911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonExercises" />
+    <SUITE FILE_PATH="coverage/classExercises$exercise24.coverage" NAME="exercise24 Coverage Results" MODIFIED="1733129170363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonExercises" />
+    <SUITE FILE_PATH="coverage/classExercises$exercise30.coverage" NAME="exercise30 Coverage Results" MODIFIED="1736759336549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonExercises" />
   </component>
 </project>
