@@ -6,7 +6,7 @@
 # Artigo 3     Prezo
 # …     …
 # Total     Custo
-# TODO La parte del formato
+# TODO La parte del formato     
 groceries : dict = {}
 
 userProduct = ""
