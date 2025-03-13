@@ -9,8 +9,15 @@
 #     - Primeiro un xogador, comproba se hai gañador, logo outro.
 #     - Paras cando un gaña ou xa non hai máis movementos.
 
+player_one_turn : str = "Where will you place your X, player 1"
+player_two_turn : str = "Where will you place your O, player 2"
 def three_of_a_kind():
-    playing_field = "[]  []  []\n[]  []  []\n[]  []  []"
+    playing_field = [[], [], [],
+                     [], [], [],
+                     [], [], []]
     print(playing_field)
+    print(player_one_turn)
+    print(player_two_turn)
+
 
 three_of_a_kind()
